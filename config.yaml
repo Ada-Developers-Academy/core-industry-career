@@ -1,0 +1,53 @@
+Standards:
+  -
+    Title: Lightning Talks
+    Description: Intro To Lightning Talks, Personal Lightning Talks, Technical Lightning Talks
+    UID: 07b2a8b0860efe7dee9b9eb34b11b7be
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: H470UP
+        Path: /intro-to-lightning-talks/intro-to-lightning-talks.instructor.md
+      -
+        Type: Lesson
+        UID: 72afe16ca4f552e0a3de82224e7593fe
+        Path: /intro-to-lightning-talks/intro-to-lightning-talks.md
+      -
+        Type: Lesson
+        UID: e0c49e15078635de86976b6e6f39e2c6
+        Path: /intro-to-lightning-talks/personal-introduction-talk.md
+      -
+        Type: Lesson
+        UID: 085e5e9a2dac58a838c09f5bf67df941
+        Path: /intro-to-lightning-talks/personal-introduction-submission.md
+      -
+        Type: Instructor
+        UID: 1rV9Y7
+        Path: /unit-1-lightning-talks/unit-1-talk.instructor.md
+      -
+        Type: Instructor
+        UID: W0QDug
+        Path: /unit-2-lightning-talks/unit-2-talk.instructor.md
+      -
+        Type: Instructor
+        UID: a38c6f45-52bf-4ba1-a1f5-bf3a5c51c03b
+        Path: /unit-3-lightning-talks/unit-3-talk.instructor.md
+      -
+        Type: Lesson
+        UID: 9ba86d17b5841d8f34757a69cbb3c9d3
+        Path: /unit-1-lightning-talks/technical-lightning-talks.md
+      -
+        Type: Lesson
+        UID: 2f0db7bfe571583ba88991e7e46a64c5
+        Path: /unit-1-lightning-talks/unit-1-submission.md
+      -
+        Type: Lesson
+        UID: 04042f7b3bead0a3e3ec8f3cd1ab7e4c
+        Path: /unit-2-lightning-talks/unit-2-submission.md
+      -
+        Type: Lesson
+        UID: bd79bc54a0ce09cec07a96fa28e2ddf1
+        Path: /unit-3-lightning-talks/unit-3-submission.md
+      
