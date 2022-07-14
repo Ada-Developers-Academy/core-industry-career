@@ -51,6 +51,22 @@ Standards:
         UID: bd79bc54a0ce09cec07a96fa28e2ddf1
         Path: /lightning-talks/unit-3-submission.md
   -
+    Title: "Professional and Career Development"
+    Description: All relevant resources for professional and career development workshops taught by our Career Services Managers
+    UID: b43340e1-9052-4b5d-8c8a-24e34ab8210a
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 5d7e93f3-b6cd-4edd-8912-ca9140fae368
+        Path: /professional-and-career-development/career-development-C16.md
+      -
+        Type: Lesson
+        UID: dbb6d2de-c7c5-460d-a7e8-2c2f3fbd7277
+        Path: /professional-and-career-development/professional-development-C17.md
+  
+  -
     Title: Interview Week
     Description: Overview
     UID: 9007aad6-4b21-4373-a640-7c2af4da92ae     
