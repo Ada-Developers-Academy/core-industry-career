@@ -51,6 +51,151 @@ Standards:
         UID: bd79bc54a0ce09cec07a96fa28e2ddf1
         Path: /lightning-talks/unit-3-submission.md
   -
+    Title: Industry Prep Fridays
+    Description: "Activities and Lessons for Industry Prep Fridays"
+    UID: 2f1f90e3-3a7e-4647-bc39-47863a981d0e
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Instructor
+        UID: 38431de4-5a77-4820-8c9c-c30877c3d892
+        Path: /industry-prep-fridays/instructor-unit-1-industry-prep.md
+      -
+        Type: Instructor
+        UID: 3c84a434-1b17-45f5-b908-332bd84c5629
+        Path: /industry-prep-fridays/instructor-unit-2-industry-prep.md
+      -
+        Type: Lesson
+        UID: defb503c-4b0e-4cbc-b524-8b912c4ebe35
+        Path: /industry-prep-fridays/intro-industry-prep-fridays.md
+      -
+        Type: Lesson
+        UID: 500d9781
+        Path: /industry-prep-fridays/activity-git-collaboration.md
+      -
+        Type: Resource
+        UID: tSg96d
+        Path: /industry-prep-fridays/activity-git-history.md 
+      -
+        Type: Lesson
+        UID: 29c5d18e-7412-4bb3-aa03-dd24137cfe16
+        Path: /industry-prep-fridays/activity-code-coverage.md  
+      -
+        Type: Lesson
+        UID: b9f55320-922f-4ded-8240-0c7953fe2de8
+        Path: /industry-prep-fridays/asking-questions-reading-documentation.md
+      -
+        Type: Lesson
+        UID: 9487cdd3-e1c9-44dd-bc15-3fe9ffbedcbe
+        Path: /industry-prep-fridays/git-branching-merge-carnival.md
+      -
+        Type: Lesson
+        UID: b98017a9-eaf9-4890-8538-f37eb30d74c3
+        Path: /industry-prep-fridays/activity-code-reviews.md
+  -
+    Title: Algorithm Practice Sessions
+    Description: "Algorithm Practice Sessions"
+    UID: a0b2c923-352c-488e-927b-6534bae1ce03
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: e9dee1ea-755a-4e4b-8ad6-038e40e0c0e7
+        Path: /algorithms/introduction.md
+      -
+        Type: Lesson
+        UID: e4623cca-e53f-4812-b2e5-af735be00cbb
+        Path: /algorithms/algorithm-practice-sessions-1.md
+      -
+        Type: Lesson
+        UID: cac74e68-dde3-46b7-9019-0a84431715b2
+        Path: /algorithms/algorithm-practice-sessions-2.md
+      -
+        Type: Lesson
+        UID: 1f13aa7b-2b9b-4af7-914c-b51caf4ff74d
+        Path: /algorithms/algorithm-practice-sessions-3.md
+
+      -
+        Type: Lesson
+        UID: 3e90d2b8-07f4-4f8b-b6ae-c230f43a4382
+        Path: /algorithms/algorithm-practice-sessions-4.md
+
+      -
+        Type: Lesson
+        UID: 950ac214-d0d6-4dec-9fe0-97562aaec849
+        Path: /algorithms/algorithm-practice-sessions-5.md
+
+      -
+        Type: Lesson
+        UID: c1682ba4-6be0-4eff-a905-2a6c793fc06a
+        Path: /algorithms/algorithm-practice-sessions-6.md
+
+      -
+        Type: Lesson
+        UID: 7307dbdb-22f4-428f-8ca3-0ea5f4d326b7
+        Path: /algorithms/algorithm-practice-sessions-7.md
+
+      -
+        Type: Lesson
+        UID: c2cfe1ac-f669-49cf-bee2-4a422206613a
+        Path: /algorithms/algorithm-practice-sessions-8.md
+
+      -
+        Type: Lesson
+        UID: 1b1c4486-178d-4717-9e19-4a52a6c2b3a3
+        Path: /algorithms/algorithm-practice-sessions-9.md
+
+      -
+        Type: Lesson
+        UID: a2e5029e-1ad7-4497-8338-9fc08390ad0f
+        Path: /algorithms/algorithm-practice-sessions-10.md
+
+      -
+        Type: Lesson
+        UID: 8c55cfdb-9c1b-4d75-88f1-d98d9a769018
+        Path: /algorithms/algorithm-practice-sessions-11.md
+      -
+        Type: Lesson
+        UID: 08b72e70-c26d-41fa-bfd7-0dc34a3bacb3
+        Path: /algorithms/algorithm-practice-sessions-12.md
+
+      -
+        Type: Lesson
+        UID: f4d2be8d-ed9b-4278-8163-88dabd64131e
+        Path: /algorithms/algorithm-practice-sessions-13.md
+
+      -
+        Type: Lesson
+        UID: c51f40db-64eb-48f0-bc97-3b04a0b85265
+        Path: /algorithms/algorithm-practice-sessions-14.md
+
+      -
+        Type: Lesson
+        UID: 5fde046d-3e1a-47c7-8b59-56d2977ea30f
+        Path: /algorithms/algorithm-practice-sessions-15.md
+
+      -
+        Type: Lesson
+        UID: aa8199f0-5079-44fc-a238-8417fd4d3697
+        Path: /algorithms/algorithm-practice-sessions-16.md
+
+      -
+        Type: Lesson
+        UID: 0b949854-e6fd-4cac-9e38-645dc2f257d3
+        Path: /algorithms/algorithm-practice-sessions-17.md
+
+      -
+        Type: Lesson
+        UID: e5dc0de4-3b6b-4840-90d1-9d794c188d3c
+        Path: /algorithms/algorithm-practice-sessions-18.md
+
+      -
+        Type: Lesson
+        UID: b30f1525-c567-49c2-a1e2-500b48f2998f
+        Path: /algorithms/algorithm-practice-sessions-19.md
+  -
     Title: "Professional and Career Development"
     Description: All relevant resources for professional and career development workshops taught by our Career Services Managers
     UID: b43340e1-9052-4b5d-8c8a-24e34ab8210a
@@ -130,3 +275,22 @@ Standards:
         Type: Checkpoint
         UID: 0ec2d15f-dc86-416e-bca2-aeef36957956
         Path: /capstone-submission/capstone-submission.checkpoint.md
+  -
+    Title: Internship Prep
+    Description: "VIM, Linux Manual, and Git"
+    UID: fefeb111-2a50-468b-8bd4-bbc1fbd659a1
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 068b2e61-aa9e-455c-8fd8-761976339f26
+        Path: /internship-prep/vim.md
+      -
+        Type: Lesson
+        UID: fb3231c0-c055-4cf5-a624-77d03e1357e3
+        Path: /internship-prep/linux_man.md
+      -
+        Type: Lesson
+        UID: e989c0f2-6640-491f-8828-1906a7b8b7cf
+        Path: /internship-prep/git_video_course.md

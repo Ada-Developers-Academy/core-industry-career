@@ -6,3 +6,4 @@ Original Repos
 * [Capstone](https://github.com/Ada-Developers-Academy/core-capstone)
 * [Internship Process](https://github.com/ada-developers-academy/core-internship-process)
 * [Career Development](https://github.com/ada-developers-academy/career-development/)
+* [Industry Prep](https://github.com/Ada-Developers-Academy/core-industry-prep)
