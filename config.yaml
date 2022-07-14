@@ -49,5 +49,53 @@ Standards:
       -
         Type: Lesson
         UID: bd79bc54a0ce09cec07a96fa28e2ddf1
-        Path: /lightning-talks/unit-3-submission.md
-      
+        Path: /lightning-talks/unit-3-submission.md     
+  -
+    Title: Capstone Overview
+    Description: "Due dates, process, templates, directions"
+    UID: w7RhPU
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 2c8d4b73-0b1c-4072-8db5-1da85bcd2f01
+        Path: /capstone-overview/overview.md
+      -
+        Type: Lesson
+        UID: 89ed3730-ecf9-46ce-bc82-eec96cb75e51
+        Path: /capstone-overview/tech-stack-examples.md
+      -
+        Type: Lesson
+        UID: 847ecc52-aac7-439c-b824-1e940529ff3a
+        Path: /capstone-overview/tutorial-sites.md
+  -
+    Title: Capstone Concept
+    Description: "Capstone Concept Submission"
+    UID: dac0902f-6d6f-4a27-8b81-cfa94ee271fe
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 5fae59a1-82e0-47cd-9da6-9dcf3d2c7989
+        Path: /capstone-concept/capstone-concept-template.md
+      -
+        Type: Checkpoint
+        UID: fc7f5574-f014-47d1-bed1-8cc6a3164ae4
+        Path: /capstone-concept/capstone-concept.checkpoint.md
+  -
+    Title: Capstone Submission
+    Description: "Capstone README & Repo Submission"
+    UID: 7f4549fc-ff34-414d-922c-99bdd997fea2
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 4733ae4c-3a4e-4191-b444-3901b168abea
+        Path: /capstone-submission/readme-example.md
+      -
+        Type: Checkpoint
+        UID: 0ec2d15f-dc86-416e-bca2-aeef36957956
+        Path: /capstone-submission/capstone-submission.checkpoint.md
