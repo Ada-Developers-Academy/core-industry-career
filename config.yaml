@@ -49,7 +49,22 @@ Standards:
       -
         Type: Lesson
         UID: bd79bc54a0ce09cec07a96fa28e2ddf1
-        Path: /lightning-talks/unit-3-submission.md     
+        Path: /lightning-talks/unit-3-submission.md
+  -
+    Title: Interview Week
+    Description: Overview
+    UID: 9007aad6-4b21-4373-a640-7c2af4da92ae     
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 682636b7-fe22-40a0-bad2-e69cb0db573f     
+        Path: /interview-week/overview.md 
+      -  
+        Type: Lesson
+        UID: ce0384ca-f6e4-4113-83b6-b063a076c8b2     
+        Path: /interview-week/final-details.md      
   -
     Title: Capstone Overview
     Description: "Due dates, process, templates, directions"
