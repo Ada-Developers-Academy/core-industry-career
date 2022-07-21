@@ -208,9 +208,16 @@ Standards:
         Path: /professional-and-career-development/career-development-C16.md
       -
         Type: Lesson
+        UID: 1a2da70c-6ba6-4ed6-b4f2-0596e9da9917
+        Path: /professional-and-career-development/career-development-C17.md
+      -
+        Type: Lesson
         UID: dbb6d2de-c7c5-460d-a7e8-2c2f3fbd7277
         Path: /professional-and-career-development/professional-development-C17.md
-  
+      -
+        Type: Lesson
+        UID: 3db2de8f-6868-46ea-83df-d0f0617a2000
+        Path: /professional-and-career-development/professional-development-C18.md
   -
     Title: Interview Week
     Description: Overview
