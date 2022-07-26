@@ -196,29 +196,6 @@ Standards:
         UID: b30f1525-c567-49c2-a1e2-500b48f2998f
         Path: /algorithms/algorithm-practice-sessions-19.md
   -
-    Title: "Professional and Career Development"
-    Description: All relevant resources for professional and career development workshops taught by our Career Services Managers
-    UID: b43340e1-9052-4b5d-8c8a-24e34ab8210a
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
-      -
-        Type: Lesson
-        UID: 5d7e93f3-b6cd-4edd-8912-ca9140fae368
-        Path: /professional-and-career-development/career-development-C16.md
-      -
-        Type: Lesson
-        UID: 1a2da70c-6ba6-4ed6-b4f2-0596e9da9917
-        Path: /professional-and-career-development/career-development-C17.md
-      -
-        Type: Lesson
-        UID: dbb6d2de-c7c5-460d-a7e8-2c2f3fbd7277
-        Path: /professional-and-career-development/professional-development-C17.md
-      -
-        Type: Lesson
-        UID: 3db2de8f-6868-46ea-83df-d0f0617a2000
-        Path: /professional-and-career-development/professional-development-C18.md
-  -
     Title: Interview Week
     Description: Overview
     UID: 9007aad6-4b21-4373-a640-7c2af4da92ae     
