@@ -261,7 +261,7 @@ Standards:
         Path: /capstone-submission/capstone-submission.checkpoint.md
   -
     Title: Internship Prep
-    Description: "VIM, Linux Manual, and Git"
+    Description: "Intro to Design Patterns, VIM, Linux Manual, and Git"
     UID: fefeb111-2a50-468b-8bd4-bbc1fbd659a1
     SuccessCriteria:
       - success criteria
