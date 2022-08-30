@@ -47,7 +47,7 @@ The requirements for capstone are intentionally open-ended and vague. First and 
   - Monday, August 8, time TBD
 - Code Freeze
   - Seattle: Tuesday, August 16 at 5 PM PST
-  - Digital/Atlanta: Monday, August 15 at 5 PM PST
+  - Digital/Atlanta: Monday, August 15 at 11:59 PM PST
 - Submit project presentation link 
   - Seattle: Wednesay, August 17 at 5 PM PST
   - Digital/Atlanta: Tuesday, August 16 at 5 PM PST
